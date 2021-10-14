@@ -4,12 +4,4 @@ This is an integration in SwiftUI of a traveling app design made by Dmitry Laure
 
 ## Screenshots
 
-``` swift
-// TODO: add screenshots
-```
-
-## Custom components
-
-``` swift
-// ...
-```
+![Screenshots](./travel-app.png "App Screenshots")
